@@ -13,4 +13,5 @@ fastboot flash oplusstanvbk_b oplusstanvbk.img
 fastboot reboot
 ```
 此方法操作得当不会抹除手机数据
+
 本人在此声明：刷机需谨慎，如有问题本人概不负责
