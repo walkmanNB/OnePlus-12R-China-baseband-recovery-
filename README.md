@@ -4,7 +4,8 @@
 搜寻你需要下载oplusstanvbk.img文件
 然后安装adb到你的电脑并且打开手机的adb模式
 之后输入以下代码
-```adb reboot bootloader
+```
+adb reboot bootloader
 # 刷入 A 分区
 fastboot flash oplusstanvbk_a oplusstanvbk.img
 # 刷入 B 分区
