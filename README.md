@@ -1,9 +1,13 @@
 本方法只用于解决已解锁bootloader
 且刷入欧版系统的一加（oneplus）ace3系列手机
 无法识别中国运营商的问题
-搜寻你需要下载oplusstanvbk.img文件
+
+
+首先你需要下载oplusstanvbk.img文件
+
+
 然后安装adb到你的电脑并且打开手机的adb模式
-之后输入以下代码
+之后在cmd输入以下代码
 ```
 adb reboot bootloader
 # 刷入 A 分区
